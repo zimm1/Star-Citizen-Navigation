@@ -134,3 +134,15 @@ span {
 #home_img:hover {
     transform: scale(1.2);
 }
+
+#save_img {
+    -webkit-app-region: no-drag;
+    width: 22px;
+    position: absolute;
+    top: 15px;
+    left: 52px;
+}
+
+#save_img:hover {
+    transform: scale(1.2);
+}
